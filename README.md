@@ -3,7 +3,11 @@
 - 👀 I’m interested in crypto and coding.
 - 🌱 I’m currently learning html, css, javascript, python
 - 💞️ I’m looking to collaborate on crypto oriented projects.
-- 📫 How to reach me on twitter: @carlmikel
+- 📫 How to reach me via email: carljmikel@gmail.com
+
+<!---
+[![Super Saiyan Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Saiyan-Carl)](https://github.com/Super-Saiyan-Carl/github-readme-stats)
+--->
 
 <!---
 Super-Saiyan-Carl/Super-Saiyan-Carl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
