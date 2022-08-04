@@ -9,6 +9,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Saiyan-Carl&layout=compact)](https://github.com/Super-Saiyan-Carl/github-readme-stats)
 
+---
+
+![Super Saiyan Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Saiyan-Carl&show_icons=true&theme=radical)
+
 <!---
 Super-Saiyan-Carl/Super-Saiyan-Carl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
