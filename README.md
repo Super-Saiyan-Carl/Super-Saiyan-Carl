@@ -5,9 +5,9 @@
 - 💞️ I’m looking to collaborate on crypto oriented projects.
 - 📫 How to reach me via email: carljmikel@gmail.com
 
-<!---
-[![Super Saiyan Carl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Saiyan-Carl)](https://github.com/Super-Saiyan-Carl/github-readme-stats)
---->
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Saiyan-Carl&layout=compact)](https://github.com/Super-Saiyan-Carl/github-readme-stats)
 
 <!---
 Super-Saiyan-Carl/Super-Saiyan-Carl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
